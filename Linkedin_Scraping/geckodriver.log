@@ -1,0 +1,1082 @@
+1592511286010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefosCgZ"
+1592511287476	Marionette	INFO	Listening on port 36663
+1592511287518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511642698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecxdg4J"
+1592511644173	Marionette	INFO	Listening on port 45489
+1592511644202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511664104	Marionette	INFO	Stopped listening on port 45489
+1592511675293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHa0z7L"
+1592511676750	Marionette	INFO	Listening on port 39749
+1592511676797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592511682751	Marionette	INFO	Stopped listening on port 39749
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://cl.qualaroo.com/ki.js/66137/fsW.js, line 8: SecurityError: The operation is insecure.
+JavaScript error: https://cl.qualaroo.com/ki.js/66137/fsW.js, line 8: SecurityError: The operation is insecure.
+JavaScript error: https://cl.qualaroo.com/ki.js/66137/fsW.js, line 8: SecurityError: The operation is insecure.
+1592514079469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5he3bi"
+1592514080992	Marionette	INFO	Listening on port 35397
+1592514081074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592514103812	Marionette	INFO	Stopped listening on port 35397
+1592514243502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2fpE29"
+1592514245039	Marionette	INFO	Listening on port 42075
+1592514245106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592514256355	Marionette	INFO	Stopped listening on port 42075
+1592514358867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDy29J7"
+1592514360353	Marionette	INFO	Listening on port 44015
+1592514360374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592514374928	Marionette	INFO	Stopped listening on port 44015
+1592514473196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMxvxT9"
+1592514474620	Marionette	INFO	Listening on port 44237
+1592514474700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592514484089	Marionette	INFO	Stopped listening on port 44237
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+1592514681312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLHHDlm"
+1592514682819	Marionette	INFO	Listening on port 40225
+1592514682918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592514685199	Marionette	INFO	Stopped listening on port 40225
+1592514708432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileinmT1E"
+1592514709908	Marionette	INFO	Listening on port 43797
+1592514709936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592514719776	Marionette	INFO	Stopped listening on port 43797
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.14.js?utv=ut4.46.202006040406, line 1: TypeError: utag is undefined
+JavaScript error: https://cl.qualaroo.com/ki.js/66137/fsW.js, line 8: SecurityError: The operation is insecure.
+JavaScript error: https://cl.qualaroo.com/ki.js/66137/fsW.js, line 8: SecurityError: The operation is insecure.
+JavaScript error: https://cl.qualaroo.com/ki.js/66137/fsW.js, line 8: SecurityError: The operation is insecure.
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.88.js?utv=ut4.46.202006040406, line 1: TypeError: utag is undefined
+1592515024625	Marionette	INFO	Stopped listening on port 36663
+1592515046159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejkSTqn"
+1592515047642	Marionette	INFO	Listening on port 44105
+1592515047663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515055157	Marionette	INFO	Stopped listening on port 44105
+1592515059079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejnXEEm"
+1592515060619	Marionette	INFO	Listening on port 34801
+1592515060699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515069045	Marionette	INFO	Stopped listening on port 34801
+1592515107789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepCWx6r"
+1592515109274	Marionette	INFO	Listening on port 36087
+1592515109293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515117635	Marionette	INFO	Stopped listening on port 36087
+1592515300507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelMd8Bm"
+1592515301948	Marionette	INFO	Listening on port 41677
+1592515302011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515316286	Marionette	INFO	Stopped listening on port 41677
+1592515350619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem1HGph"
+1592515352082	Marionette	INFO	Listening on port 43439
+1592515352122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515363961	Marionette	INFO	Stopped listening on port 43439
+1592515427425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7nEGUw"
+1592515428860	Marionette	INFO	Listening on port 33621
+1592515428931	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592515565271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNyG6Xz"
+1592515566785	Marionette	INFO	Listening on port 40073
+1592515566877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515583232	Marionette	INFO	Stopped listening on port 40073
+1592515725437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei5jr0L"
+1592515726888	Marionette	INFO	Listening on port 36449
+1592515726940	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592515733028	Marionette	INFO	Stopped listening on port 36449
+1592515748026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexdODMK"
+1592515749505	Marionette	INFO	Listening on port 41201
+1592515749531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592515814743	Marionette	INFO	Stopped listening on port 41201
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+1592516127792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNZJUz6"
+1592516129248	Marionette	INFO	Listening on port 45889
+1592516129296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592516143899	Marionette	INFO	Stopped listening on port 45889
+1592516156759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYlx4VO"
+1592516158222	Marionette	INFO	Listening on port 44501
+1592516158262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592516192541	Marionette	INFO	Stopped listening on port 44501
+1592516399953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilengnUcI"
+1592516401414	Marionette	INFO	Listening on port 44901
+1592516401457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592516446441	Marionette	INFO	Stopped listening on port 44901
+1592516479883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileclL0QF"
+1592516481436	Marionette	INFO	Listening on port 44213
+1592516481487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592516514726	Marionette	INFO	Stopped listening on port 44213
+1592516525522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLYBNy5"
+1592516527065	Marionette	INFO	Listening on port 34549
+1592516527126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/7vg63qfyg9arh72rvrg1xa1yv, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+1592516716294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexS7NTt"
+1592516717837	Marionette	INFO	Listening on port 46753
+1592516717898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592516738132	Marionette	INFO	Stopped listening on port 46753
+1592516746318	Marionette	INFO	Stopped listening on port 34549
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+1592516823177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHCRdD4"
+1592516824666	Marionette	INFO	Listening on port 42311
+1592516824683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592516841046	Marionette	INFO	Stopped listening on port 42311
+1592516907810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeCXAyl"
+1592516909291	Marionette	INFO	Listening on port 33493
+1592516909314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592516932153	Marionette	INFO	Stopped listening on port 33493
+1592516983614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelYXWI0"
+1592516985045	Marionette	INFO	Listening on port 43597
+1592516985117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517007967	Marionette	INFO	Stopped listening on port 43597
+1592517046593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLaFwB8"
+1592517048139	Marionette	INFO	Listening on port 38745
+1592517048197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517075919	Marionette	INFO	Stopped listening on port 38745
+1592517126165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9SCKtm"
+1592517127612	Marionette	INFO	Listening on port 39405
+1592517127668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517147059	Marionette	INFO	Stopped listening on port 39405
+1592517241538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP33q79"
+1592517243134	Marionette	INFO	Listening on port 39513
+1592517243158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517257533	Marionette	INFO	Stopped listening on port 39513
+1592517277564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFxHhgB"
+1592517278981	Marionette	INFO	Listening on port 34487
+1592517279068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517292419	Marionette	INFO	Stopped listening on port 34487
+1592517405485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePmP7rs"
+1592517406994	Marionette	INFO	Listening on port 42453
+1592517407090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517421091	Marionette	INFO	Stopped listening on port 42453
+1592517427112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb7wFim"
+1592517428675	Marionette	INFO	Listening on port 39527
+1592517428716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517447203	Marionette	INFO	Stopped listening on port 39527
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517659779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem3KRtB"
+1592517661211	Marionette	INFO	Listening on port 37075
+1592517661283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517673766	Marionette	INFO	Stopped listening on port 37075
+1592517701879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyuBXdG"
+1592517703487	Marionette	INFO	Listening on port 35475
+1592517703584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517715918	Marionette	INFO	Stopped listening on port 35475
+1592517736988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQXXqGJ"
+1592517738646	Marionette	INFO	Listening on port 40705
+1592517738693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517750548	Marionette	INFO	Stopped listening on port 40705
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592517990931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuFSPTd"
+1592517992456	Marionette	INFO	Listening on port 36529
+1592517992536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592517994991	Marionette	INFO	Stopped listening on port 36529
+1592518042874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb9w3tK"
+1592518044328	Marionette	INFO	Listening on port 44405
+1592518044378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518050548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592518058003	Marionette	INFO	Stopped listening on port 44405
+1592518067671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq6am0m"
+1592518069133	Marionette	INFO	Listening on port 33133
+1592518069175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518081984	Marionette	INFO	Stopped listening on port 33133
+1592518166584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePzE4qr"
+1592518168073	Marionette	INFO	Listening on port 38135
+1592518168089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518183941	Marionette	INFO	Stopped listening on port 38135
+1592518189042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT8EQVq"
+1592518190486	Marionette	INFO	Listening on port 41127
+1592518190546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518196661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592518225377	Marionette	INFO	Stopped listening on port 41127
+1592518409834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9LgiJ"
+1592518411336	Marionette	INFO	Listening on port 46287
+1592518411345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518434656	Marionette	INFO	Stopped listening on port 46287
+1592518519937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9u5Ysa"
+1592518521586	Marionette	INFO	Listening on port 42091
+1592518521642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+1592518534220	Marionette	INFO	Stopped listening on port 42091
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+console.error: (new TypeError("state is null", "resource://devtools/client/inspector/shared/highlighters-overlay.js", 905))
+1592518799817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEK2uv5"
+1592518801400	Marionette	INFO	Listening on port 35093
+1592518801421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518839269	Marionette	INFO	Stopped listening on port 35093
+1592518892837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWngi5t"
+1592518894299	Marionette	INFO	Listening on port 40627
+1592518894347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518925213	Marionette	INFO	Stopped listening on port 40627
+1592518966026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXOoMU5"
+1592518967633	Marionette	INFO	Listening on port 33481
+1592518967740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592518999051	Marionette	INFO	Stopped listening on port 33481
+1592519495323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7HhiN4"
+1592519496822	Marionette	INFO	Listening on port 46569
+1592519496832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592519520591	Marionette	INFO	Stopped listening on port 46569
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1592521211832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8CNcJo"
+1592521213524	Marionette	INFO	Listening on port 33597
+1592521213541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592521251409	Marionette	INFO	Stopped listening on port 33597
+1592521320118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS7pu5R"
+1592521321715	Marionette	INFO	Listening on port 42181
+1592521321728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592521532923	Marionette	INFO	Stopped listening on port 42181
+1592521537174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8AJXQM"
+1592521538677	Marionette	INFO	Listening on port 43305
+1592521538780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592521623992	Marionette	INFO	Stopped listening on port 43305
+1592521737361	Marionette	INFO	Stopped listening on port 33621
+1592521958339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9O51qf"
+1592521959825	Marionette	INFO	Listening on port 44111
+1592521959845	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592521980882	Marionette	INFO	Stopped listening on port 44111
+1592522011446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC2z7db"
+1592522012903	Marionette	INFO	Listening on port 36483
+1592522012950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592522041189	Marionette	INFO	Stopped listening on port 36483
+1592522309791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJtZIDZ"
+1592522311253	Marionette	INFO	Listening on port 42087
+1592522311295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592522581690	Marionette	INFO	Stopped listening on port 42087
+1592522712012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBcL3l"
+1592522713524	Marionette	INFO	Listening on port 43579
+1592522713616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592523085373	Marionette	INFO	Stopped listening on port 43579
+1592523229997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePJPEju"
+1592523231526	Marionette	INFO	Listening on port 33325
+1592523231602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592523473778	Marionette	INFO	Stopped listening on port 33325
+1592523487689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewsCSmn"
+1592523489277	Marionette	INFO	Listening on port 34967
+1592523489294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592524109469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQdSb9M"
+1592524110911	Marionette	INFO	Listening on port 44415
+1592524110973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592524165290	Marionette	INFO	Stopped listening on port 44415
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+1592524352094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefHo89W"
+1592524353604	Marionette	INFO	Listening on port 34953
+1592524353700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592524414305	Marionette	INFO	Stopped listening on port 34953
+1592524473595	Marionette	INFO	Stopped listening on port 34967
+1592568901644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUHGGfw"
+1592568903185	Marionette	INFO	Listening on port 43633
+1592568903248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1592569284381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1VmJmk"
+1592569285990	Marionette	INFO	Listening on port 42643
+1592569286086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592569348571	Marionette	INFO	Stopped listening on port 42643
+1592569405018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96Tm6K"
+1592569406600	Marionette	INFO	Listening on port 34815
+1592569406622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1592569614237	Marionette	INFO	Stopped listening on port 43633
+1592569617683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7npLMB"
+1592569619236	Marionette	INFO	Listening on port 37327
+1592569619286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592569652336	Marionette	INFO	Stopped listening on port 37327
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592571096205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewMNINK"
+1592571097686	Marionette	INFO	Listening on port 44497
+1592571097709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1592571158950	Marionette	INFO	Stopped listening on port 44497
+1592571223537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexP3Ggq"
+1592571225079	Marionette	INFO	Listening on port 42521
+1592571225149	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+1592571524194	Marionette	INFO	Stopped listening on port 42521
+1592571536526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9WZwKB"
+1592571537882	Marionette	INFO	Listening on port 39641
+1592571537930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error sending event: picker-node-picked"
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 217))
+TypeError: this.walker is null: form@resource://devtools/server/actors/inspector/node.js:217:24
+write@resource://devtools/shared/protocol/types.js:363:32
+write@resource://devtools/shared/protocol/types.js:268:39
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+pick/this._onPick@resource://devtools/server/actors/highlighters.js:317:20
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: "Error sending event: picker-node-picked"
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 217))
+TypeError: this.walker is null: form@resource://devtools/server/actors/inspector/node.js:217:24
+write@resource://devtools/shared/protocol/types.js:363:32
+write@resource://devtools/shared/protocol/types.js:268:39
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+pick/this._onPick@resource://devtools/server/actors/highlighters.js:317:20
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
+
+1592571925738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecYwkuD"
+1592571927127	Marionette	INFO	Listening on port 33415
+1592571927142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592572108615	Marionette	INFO	Stopped listening on port 33415
+1592572164028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3iGtuG"
+1592572165542	Marionette	INFO	Listening on port 44945
+1592572165633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1592572225207	Marionette	INFO	Stopped listening on port 44945
+1592572385773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKgwCxP"
+1592572387281	Marionette	INFO	Listening on port 45981
+1592572387381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+1592572455464	Marionette	INFO	Stopped listening on port 45981
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:182:5
+getParent@resource://devtools/shared/protocol/Pool.js:40:5
+destroy@resource://devtools/shared/protocol/Pool.js:165:25
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/node.js:193:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/walker.js:439:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:126:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:995:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:573:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:554:10
+removeActor@resource://devtools/server/actors/common.js:63:13
+APDestroy@resource://devtools/server/actors/common.js:28:12
+onClosed/<@resource://devtools/server/devtools-server-connection.js:477:37
+onClosed@resource://devtools/server/devtools-server-connection.js:477:22
+close@resource://devtools/shared/transport/child-transport.js:62:16
+close@resource://devtools/server/devtools-server-connection.js:86:23
+onDisconnect<@resource://devtools/server/startup/frame.js:145:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 182, column: 5
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 182))
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 266: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]
+JavaScript error: https://www.gstatic.com/mysidia/5685a44b5fb4302ac09e61f8a4b58e9d.js?tag=video_mra/web_fig_och, line 174: SecurityError: The operation is insecure.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+JavaScript error: https://ec-ns.sascdn.com/diff/rtb/handler/st.min.html?%7b%22bid%22%3a%22459753007819260218%22%2c%22adomain%22%3a%22nossaaposta.pt%22%2c%22page%22%3a%221218526%22%2c%22format%22%3a%2289893%22%2c%22crid%22%3a%22409_2890%22%2c%22dsp%22%3a%2231%22%2c%22buyer%22%3a%22137327%22%2c%22cid%22%3a%221097%22%2c%22adid%22%3a%22409_2890%22%2c%22hash%22%3a%22-1408292713664406237%22%7d, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: https://ap.lijit.com/www/sovrn_beacon_standalone/sovrn_standalone_beacon.js?iid=13395947, line 3: TypeError: sovrn.auction.sovrnReady is not a function
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1592573304845	Marionette	INFO	Stopped listening on port 39641
+1592573608263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeO5u2Z"
+1592573609773	Marionette	INFO	Listening on port 37931
+1592573609867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592573848769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletK0AmS"
+1592573850294	Marionette	INFO	Listening on port 33639
+1592573850373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592573977957	Marionette	INFO	Stopped listening on port 33639
+1592573981802	Marionette	INFO	Stopped listening on port 37931
+1592574509380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeqwMQN"
+1592574510827	Marionette	INFO	Listening on port 33173
+1592574510883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592574577927	Marionette	INFO	Stopped listening on port 33173
+1592590854931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemOmlqT"
+1592590856548	Marionette	INFO	Listening on port 37219
+1592590856637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592590882443	Marionette	INFO	Stopped listening on port 37219
+1592590943580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexLZjBZ"
+1592590945057	Marionette	INFO	Listening on port 34057
+1592590945084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2247))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:395:10
+
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new Error("Protocol error (unknownError): node is null from: server0.conn0.child2/pagestyle25", "resource://devtools/shared/protocol/Front.js", 319))
+1592591095634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI4pBdP"
+1592591097217	Marionette	INFO	Listening on port 41451
+1592591097237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591109798	Marionette	INFO	Stopped listening on port 41451
+1592591151063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilell1e3i"
+1592591152574	Marionette	INFO	Listening on port 36635
+1592591152667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591190591	Marionette	INFO	Stopped listening on port 36635
+1592591231910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1sgjAU"
+1592591233364	Marionette	INFO	Listening on port 36585
+1592591233413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591241116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592591311848	Marionette	INFO	Stopped listening on port 36585
+1592591315279	Marionette	INFO	Stopped listening on port 34057
+1592591326344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6LM5zZ"
+1592591327810	Marionette	INFO	Listening on port 35695
+1592591327848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591335420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592591384208	Marionette	INFO	Stopped listening on port 35695
+1592591413396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileng3Xz3"
+1592591415098	Marionette	INFO	Listening on port 37969
+1592591415102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591422748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592591488608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9eLR1G"
+1592591490221	Marionette	INFO	Listening on port 44207
+1592591490313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591497849	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592591572499	Marionette	INFO	Stopped listening on port 44207
+1592591703175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenVSwGI"
+1592591704665	Marionette	INFO	Listening on port 42013
+1592591704679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591723091	Marionette	INFO	Stopped listening on port 42013
+1592591840946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCg9Aw1"
+1592591842480	Marionette	INFO	Listening on port 43477
+1592591842550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591867375	Marionette	INFO	Stopped listening on port 43477
+1592591933415	Marionette	INFO	Stopped listening on port 37969
+1592591949193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQRtOkq"
+1592591950806	Marionette	INFO	Listening on port 36067
+1592591950917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592591966392	Marionette	INFO	Stopped listening on port 36067
+1592592034679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile34y5in"
+1592592036187	Marionette	INFO	Listening on port 40457
+1592592036283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592592058793	Marionette	INFO	Stopped listening on port 40457
+1592592139726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoTZgyg"
+1592592141212	Marionette	INFO	Listening on port 36167
+1592592141233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592592427954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYJDJb2"
+1592592429436	Marionette	INFO	Listening on port 34983
+1592592429458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592595819610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592596268916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYqDXAV"
+1592596270392	Marionette	INFO	Listening on port 43969
+1592596270422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592596323296	Marionette	INFO	Stopped listening on port 43969
+1592596339991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD2Q2hd"
+1592596341491	Marionette	INFO	Listening on port 39973
+1592596341506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592598453130	Marionette	INFO	Stopped listening on port 34815
+1592598764038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerVeAIZ"
+1592598765581	Marionette	INFO	Listening on port 45297
+1592598765643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592598800483	Marionette	INFO	Stopped listening on port 45297
+1592601317206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZmHr3C"
+1592601318738	Marionette	INFO	Listening on port 45537
+1592601318810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592601494142	Marionette	INFO	Stopped listening on port 45537
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592601622415	Marionette	INFO	Stopped listening on port 39973
+1592601755042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6nV0cB"
+1592601756534	Marionette	INFO	Listening on port 46527
+1592601756550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592601764158	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592602003444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH3Litj"
+1592602004944	Marionette	INFO	Listening on port 40271
+1592602004950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592602012588	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592602024771	Marionette	INFO	Stopped listening on port 40271
+1592602162254	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSfsYDz"
+1592602163736	Marionette	INFO	Listening on port 38049
+1592602163759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592602171233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1592602707098	Marionette	INFO	Stopped listening on port 38049
+1592602784315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5JQn5t"
+1592602785803	Marionette	INFO	Listening on port 38707
+1592602785820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592602834517	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec6vV05"
+1592602835954	Marionette	INFO	Listening on port 37915
+1592602836024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592602892458	Marionette	INFO	Stopped listening on port 37915
+1592603205575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF4yQ47"
+1592603207132	Marionette	INFO	Listening on port 39015
+1592603207179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592603265127	Marionette	INFO	Stopped listening on port 39015
+1592603319466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR7IJtP"
+1592603321053	Marionette	INFO	Listening on port 36725
+1592603321071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 196: Error: Invalid autocomplete selectedIndex
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1592604197063	Marionette	INFO	Stopped listening on port 36725
+1592604226794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOuCap1"
+1592604228226	Marionette	INFO	Listening on port 36533
+1592604228298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592604389160	Marionette	INFO	Stopped listening on port 36533
+1592604632221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVPpGxM"
+1592604633700	Marionette	INFO	Listening on port 46291
+1592604633724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592606691901	Marionette	INFO	Stopped listening on port 46291
