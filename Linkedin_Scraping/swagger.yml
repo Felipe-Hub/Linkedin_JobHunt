@@ -1,0 +1,29 @@
+swagger: "2.0"
+info:
+  description: This is the swagger file that goes with our server code
+  version: "1.0.0"
+  title: Swagger REST Article
+consumes:
+  - "application/json"
+produces:
+  - "application/json"
+
+basePath: "/api"
+
+# Paths supported by the server application
+paths:
+  /job_offers:
+    get:
+      tags:
+        - "Job Offers"
+      summary: "The job offers data structure supported by the server application"
+      description: "Read the list of job offers"
+      operationId: "backend.read"
+      responses:
+        200:
+          description: "Successful read job offers list operation"
+          schema:
+            type: "array"
+            items:
+              type: "object"
+              additionalProperties: {}

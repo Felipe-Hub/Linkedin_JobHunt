@@ -6,16 +6,17 @@ import time
 import csv
 
 
-def single_job_search(job='', location='', max_result=100):
+def single_job_search(max_result=''):
     """
-    Choose job title (or company) and location to look for and scrape job offers in LinkedIn.
-    If no parameters is passed it will perform a general/global job search to scrape from.
+    Ask user to input job title (or company) and location to look for and scrape job offers in LinkedIn.
+    If there is no input it will perform a general/global job search to scrape from.
 
-    :param: job: takes a string to input in LinkedIn job search bar.
-    :param: location: takes a string to input in LinkedIn location search bar.
-    :param: max_results: maximum number of job offers you want to scrape.
-    :return: a tuple with the DataFrame with job offer information and the list of errors (results, errors).
+    :param: max_result: maximum number of job offers you want to scrape.
+    :return: a tuple with job offers information in a dictionary, and the list of errors (dict, errors).
     """
+
+    job = input('Input job title you wish to search: ')
+    location = input('Input location (city and/or country) you wish to search: ')
 
     # starts driver on LinkedIn job search page
     url = 'https://www.linkedin.com/jobs'
@@ -51,20 +52,42 @@ def single_job_search(job='', location='', max_result=100):
         time.sleep(1)
 
     elements = list()
-    while len(elements) < int(max_result):
-        breaker = len(elements)
-        # store each job offer card element
-        elements = driver.find_elements_by_class_name('result-card__full-card-link')
-        elements[-1].send_keys(Keys.NULL)
-        time.sleep(uniform(1, 1.5))
-        # this if statement will break the while loop if there are no more job offers available:
-        if len(elements) == breaker:
-            break
-        # in case infinite scroll ends click "show more" button
-        show_more = driver.find_elements_by_xpath('//button[@class="infinite-scroller__show-more-button '
-                                                  'infinite-scroller__show-more-button--visible"]')
-        if len(show_more) > 0:
-            show_more[0].click()
+
+    # searches all results until maximum allowed by LinkedIn
+    if max_result == '':
+        breaker = True
+        while breaker is True:
+            breaker = len(elements)
+            # store each job offer card element
+            elements = driver.find_elements_by_class_name('result-card__full-card-link')
+            elements[-1].send_keys(Keys.NULL)
+            time.sleep(uniform(1, 1.5))
+            # this if statement will break the while loop if there are no more job offers available:
+            if len(elements) == breaker:
+                breaker = False
+            else:
+                breaker = True
+            # in case infinite scroll ends click "show more" button
+            show_more = driver.find_elements_by_xpath('//button[@class="infinite-scroller__show-more-button '
+                                                      'infinite-scroller__show-more-button--visible"]')
+            if len(show_more) > 0:
+                show_more[0].click()
+    # searches until maximum results required is reached
+    else:
+        while len(elements) < int(max_result):
+            breaker = len(elements)
+            # store each job offer card element
+            elements = driver.find_elements_by_class_name('result-card__full-card-link')
+            elements[-1].send_keys(Keys.NULL)
+            time.sleep(uniform(1, 1.5))
+            # this if statement will break the while loop if there are no more job offers available:
+            if len(elements) == breaker:
+                break
+            # in case infinite scroll ends click "show more" button
+            show_more = driver.find_elements_by_xpath('//button[@class="infinite-scroller__show-more-button '
+                                                      'infinite-scroller__show-more-button--visible"]')
+            if len(show_more) > 0:
+                show_more[0].click()
 
     # create data structures to store scraped info
     job_title = list()
@@ -96,74 +119,75 @@ def single_job_search(job='', location='', max_result=100):
             job_title.append(driver.find_element_by_class_name(
                 'topcard__title').text)
         except:
-            job_title.append(None)
+            job_title.append('Not informed.')
         try:
             location.append(driver.find_element_by_xpath(
                 '//span[@class="topcard__flavor topcard__flavor--bullet"]').text)
         except:
-            location.append(None)
+            location.append('Not informed.')
         try:
             company.append(driver.find_element_by_xpath(
                 '//a[@class="topcard__org-name-link topcard__flavor--black-link"]').text)
         except:
-            company.append(None)
+            company.append('Not informed.')
         try:
             applicants.append(driver.find_element_by_xpath(
                 '//figcaption[@class="num-applicants__caption"]').text)
         except:
-            applicants.append(None)
+            applicants.append('Not informed.')
         try:
             days.append(driver.find_element_by_xpath(
                 '//span[@class="topcard__flavor--metadata posted-time-ago__text"]').text)
         except:
-            days.append(None)
+            days.append('Not informed.')
         try:
             body.append(driver.find_element_by_xpath(
                 '//div[@class="show-more-less-html__markup show-more-less-html__markup--clamp-after-5"]').text)
         except:
-            body.append(None)
+            body.append('Not informed.')
         try:
             seniority.append(driver.find_elements_by_xpath(
                 '//span[@class="job-criteria__text job-criteria__text--criteria"]')[0].text)
         except:
-            seniority.append(None)
+            seniority.append('Not informed.')
         try:
             employment.append(driver.find_elements_by_xpath(
                 '//span[@class="job-criteria__text job-criteria__text--criteria"]')[1].text)
         except:
-            employment.append(None)
+            employment.append('Not informed.')
         try:
             function.append(driver.find_elements_by_xpath(
                 '//span[@class="job-criteria__text job-criteria__text--criteria"]')[2].text)
         except:
-            function.append(None)
+            function.append('Not informed.')
         try:
             industry.append(driver.find_elements_by_xpath(
                 '//span[@class="job-criteria__text job-criteria__text--criteria"]')[3].text)
         except:
-            industry.append(None)
+            industry.append('Not informed.')
 
         time.sleep(uniform(0.5, 1))
 
-    jobs_info = {'job title': job_title, 'company': company, 'location': location, 'applicants': applicants,
-                 'days ago': days, 'body': body, 'seniority level': seniority, 'employment type': employment,
-                 'function': function, 'industry': industry, 'links': links_scraped}
+    jobs_info = {'id': list(range(len(job_title))), 'job title': job_title, 'company': company, 'location': location,
+                 'applicants': applicants, 'days ago': days, 'body': body, 'seniority level': seniority,
+                 'employment type': employment, 'function': function, 'industry': industry, 'links': links_scraped
+                 }
 
-    df = pd.DataFrame.from_dict(jobs_info)
-    print("You have successfully scraped {} job offers".format(len(df)))
+    print("You have successfully scraped {} job offers".format(len(jobs_info['id'])))
     print("Saving results to file!")
-    df.to_csv('search_results.csv')
+    df = pd.DataFrame.from_dict(jobs_info)
+    df.to_csv('search_results_test.csv')
 
     if len(errors) > 0:
         print("Failed scraping {} job offers".format(len(errors)))
         print("Saving errors to file!")
-        with open('search_errors.csv', 'w', newline='') as outfile:
+        with open('search_errors_test.csv', 'w', newline='') as outfile:
             writer = csv.writer(outfile)
             writer.writerow(errors)
 
-    #driver.quit()
+    driver.quit()
 
-    return df, errors
+    return jobs_info, errors
 
 
 """

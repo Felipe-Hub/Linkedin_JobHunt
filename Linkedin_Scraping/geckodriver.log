@@ -1080,3 +1080,45 @@ JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, 
 1592604633724	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
 1592606691901	Marionette	INFO	Stopped listening on port 46291
+1592745345297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerwoLX3"
+1592745346861	Marionette	INFO	Listening on port 42363
+1592745346902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592745716296	Marionette	INFO	Stopped listening on port 42363
+1592745890569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2q45yV"
+1592745892212	Marionette	INFO	Listening on port 35255
+1592745892273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592745953601	Marionette	INFO	Stopped listening on port 35255
+1592750183257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehE441B"
+1592750185003	Marionette	INFO	Listening on port 45081
+1592750185068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592750244265	Marionette	INFO	Stopped listening on port 45081
+1592751524538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGSLQON"
+1592751526026	Marionette	INFO	Listening on port 44903
+1592751526045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592751583833	Marionette	INFO	Stopped listening on port 44903
+1592751945993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUJ1vEM"
+1592751947538	Marionette	INFO	Listening on port 34793
+1592751947600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592752007576	Marionette	INFO	Stopped listening on port 34793
+1592752202382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4HW1kN"
+1592752203889	Marionette	INFO	Listening on port 45753
+1592752203986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592752974677	Marionette	INFO	Stopped listening on port 45753
+1592767771150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileowC5hs"
+1592767772622	Marionette	INFO	Listening on port 38751
+1592767772654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+JavaScript error: https://static-exp1.licdn.com/sc/h/dwgw4rk1cil7q2nua0y7y0ai4, line 1: TypeError: this._liveTextEl is null
+1592768541511	Marionette	INFO	Stopped listening on port 38751
