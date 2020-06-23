@@ -1,6 +1,6 @@
 ## JobHunter
 Short project for Data Engineering job interview where the challenge is to webscrape HR/job related data and make it available with Flask. <br><br>
-1. Run `setup.py` for packages and libraries installation;
+1. Run `setup.py` for packages and libraries installation (open terminal on Linkedin_JobHunt folder, type in command `python setup.py build` followed by `python setup.py install`);
 2. In Linkedin_Scraping folder run `scrape_and_clean.py`, input the information asked (job title, location, max number of results wanted).
 3. In Linkedin_Scraping folder run `api.py` to creat local connection.
 Result: You will have the information scraped, cleaned and available in your localhost (0.0.0.0:5000/), click the button on the home page to access it.<br>
