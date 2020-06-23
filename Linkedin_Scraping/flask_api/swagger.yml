@@ -18,7 +18,7 @@ paths:
         - "Job Offers"
       summary: "The job offers data structure supported by the server application"
       description: "Read the list of job offers"
-      operationId: "backend.read"
+      operationId: "flask_api.api_functions.JobHunt.read"
       responses:
         200:
           description: "Successful read job offers list operation"
